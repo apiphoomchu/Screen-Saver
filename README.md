@@ -29,6 +29,6 @@ ImageSlideshowSaver is a macOS screen saver built using Apple's `ScreenSaver` fr
 
 ## Configuration
 
-- By default, the slideshow fetches images from the `images` directory located in the project's resources. Replace the contents of this folder with your desired images, or update the `folderName` variable in the code to point to a different directory.
+- By default, the slideshow fetches images from the `images` directory located in the project's resources. Replace the contents of this folder with your desired images, or update the `images` variable in the code to point to a different directory.
 
 - Adjust the `timeInterval` in the `setupTimer()` function if you want to change the duration each image is displayed.
