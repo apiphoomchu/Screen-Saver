@@ -14,7 +14,7 @@ ImageSlideshowSaver is a macOS screen saver built using Apple's `ScreenSaver` fr
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/ImageSlideshowSaver.git
+    git clone https://github.com/apiphoomchu/ImageSlideshowSaver.git
     cd ImageSlideshowSaver
     ```
 
